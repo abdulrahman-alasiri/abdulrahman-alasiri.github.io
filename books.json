@@ -1,12 +1,12 @@
 {
  "site": {
   "title": "المكتبة الرقمية",
-  "author": "مؤلفات أ. عبدالرحمن محمد عسيري",
+  "author": "مؤلفات عبدالرحمن محمد عسيري",
   "subtitle": "كتبه ورسائله ومقالاته في العلم والتربية والأسرة والمواعظ، تقرؤها كما طُبعت ومن أي جهاز.",
   "brandTitle": "مؤلفات",
-  "brandSub": "أ. عبدالرحمن محمد عسيري",
-  "libraryName": "مؤلفات أ. عبدالرحمن محمد عسيري",
-  "authorName": "أ. عبدالرحمن محمد عسيري",
+  "brandSub": "عبدالرحمن محمد عسيري",
+  "libraryName": "مؤلفات عبدالرحمن محمد عسيري",
+  "authorName": "عبدالرحمن محمد عسيري",
   "allowDownload": false,
   "allowPageShare": true,
   "counter": "",
@@ -64,14 +64,14 @@
     ]
    }
   ],
-  "titleArt": "assets/title.svg?v=2",
-  "nameArt": "assets/name.svg?v=2",
+  "titleArt": "assets/title.svg?v=3",
+  "nameArt": "assets/name.svg?v=3",
   "social": {
    "telegram": "https://t.me/Assiri2024",
    "email": "Abd.Othman1235@gmail.com"
   },
   "socialWho": "الأستاذ",
-  "appName": "المكتبة الرقمية - أ. عبدالرحمن عسيري",
+  "appName": "المكتبة الرقمية - عبدالرحمن عسيري",
   "appShortName": "مكتبة عسيري"
  },
  "books": [

@@ -80,7 +80,7 @@ if len(feat) == 3:
 else:
     fan, bodyc = "", "nocovers"
 tpl = (ROOT / "tools/og-template.html").read_text(encoding="utf-8")
-out = tpl.replace("@@FAN@@", fan).replace("@@BODYCLASS@@", bodyc).replace("@@TITLE@@", e(title)).replace("@@AUTHORBLOCK@@", (f'<span class="art" style="--na:url(data:image/svg+xml;base64,{__import__('base64').b64encode((ROOT / site["nameArt"]).read_bytes()).decode()})" role="img" aria-label="{e(author)}"></span>' if site.get("nameArt") else f"<h2>{e(author)}</h2>")).replace("@@SUBTITLE@@", e(sub)).replace("@@THEME@@", ('<script src="../assets/common.js"></script><script>Lib.applyTheme(' + json.dumps(site.get("theme"), ensure_ascii=False) + ', {preview:true})</script>') if site.get("theme") else "")
+out = tpl.replace("@@FAN@@", fan).replace("@@BODYCLASS@@", bodyc).replace("@@TITLE@@", e(title)).replace("@@AUTHORBLOCK@@", (f'<span class="art" style="--na:url(data:image/svg+xml;base64,{__import__('base64').b64encode((ROOT / site["nameArt"].split("?")[0]).read_bytes()).decode()})" role="img" aria-label="{e(author)}"></span>' if site.get("nameArt") else f"<h2>{e(author)}</h2>")).replace("@@SUBTITLE@@", e(sub)).replace("@@THEME@@", ('<script src="../assets/common.js"></script><script>Lib.applyTheme(' + json.dumps(site.get("theme"), ensure_ascii=False) + ', {preview:true})</script>') if site.get("theme") else "")
 tmp = ROOT / "tools/_og.html"; tmp.write_text(out, encoding="utf-8")
 try:
     from playwright.sync_api import sync_playwright
