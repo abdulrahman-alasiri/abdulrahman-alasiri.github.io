@@ -1,0 +1,99 @@
+{
+ "site": {
+  "title": "المكتبة الرقمية",
+  "author": "مؤلفات أ. عبدالرحمن محمد العسيري",
+  "subtitle": "كتبه ورسائله ومقالاته في العلم والتربية والأسرة والمواعظ، تقرؤها كما طُبعت ومن أي جهاز.",
+  "brandTitle": "مؤلفات",
+  "brandSub": "أ. عبدالرحمن محمد العسيري",
+  "libraryName": "مؤلفات أ. عبدالرحمن محمد العسيري",
+  "authorName": "أ. عبدالرحمن محمد العسيري",
+  "allowDownload": false,
+  "allowPageShare": true,
+  "counter": "",
+  "whatsapp": "966532501235",
+  "preparedDate": "2026-11-26",
+  "newDays": 45,
+  "theme": {
+   "primary": "#17365D",
+   "accent": "#D9B978",
+   "bg": "#F7F3E8",
+   "ink": "#344F70",
+   "highlight": "#D9B978"
+  },
+  "categories": [
+   "علمية",
+   "تربوية",
+   "أسرية",
+   "مواعظ",
+   "مقالات"
+  ],
+  "groups": [
+   {
+    "name": "علمية",
+    "desc": "كتب ورسائل في العلم وطلبه",
+    "cats": [
+     "علمية"
+    ]
+   },
+   {
+    "name": "تربوية",
+    "desc": "في تربية النفس والأجيال وبناء السلوك",
+    "cats": [
+     "تربوية"
+    ]
+   },
+   {
+    "name": "أسرية",
+    "desc": "في بناء الأسرة واستقرارها",
+    "cats": [
+     "أسرية"
+    ]
+   },
+   {
+    "name": "مواعظ",
+    "desc": "مواعظ ورقائق تحيي القلوب",
+    "cats": [
+     "مواعظ"
+    ]
+   },
+   {
+    "name": "مقالات",
+    "desc": "مقالات متنوعة",
+    "cats": [
+     "مقالات"
+    ]
+   }
+  ],
+  "titleArt": "assets/title.svg",
+  "nameArt": "assets/name.svg",
+  "social": {
+   "telegram": "https://t.me/Assiri2024",
+   "email": "Abd.Othman1235@gmail.com"
+  },
+  "socialWho": "الأستاذ",
+  "appName": "المكتبة الرقمية - أ. عبدالرحمن العسيري",
+  "appShortName": "أ. العسيري"
+ },
+ "books": [
+  {
+   "id": "b01",
+   "title": "نقطة التحول - عنايتك بالقرآن بداية حياة جديدة",
+   "file": "books/book-01.pdf",
+   "cover": "covers/book-01.jpg",
+   "pages": 105,
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "category": "مواعظ"
+  },
+  {
+   "id": "b02",
+   "title": "عالم آخر - رحلة في حياة أهل القرآن",
+   "file": "books/book-02.pdf",
+   "cover": "covers/book-02.jpg",
+   "pages": 61,
+   "date": "2026-11-26",
+   "added": "2026-11-26",
+   "category": "مواعظ"
+  }
+ ]
+}
