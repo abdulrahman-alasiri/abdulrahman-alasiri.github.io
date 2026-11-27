@@ -11,7 +11,7 @@
   "allowPageShare": true,
   "counter": "",
   "whatsapp": "966532501235",
-  "preparedDate": "2026-11-26",
+  "preparedDate": "2026-11-27",
   "newDays": 45,
   "theme": {
    "primary": "#17365D",
@@ -76,6 +76,16 @@
  },
  "books": [
   {
+   "id": "b06",
+   "title": "خمسة وثمانون فائدة في ضبط متشابه القرآن",
+   "file": "books/book-06.pdf",
+   "cover": "covers/book-06.jpg",
+   "pages": 56,
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "category": "المؤلفات العلمية"
+  },
+  {
    "id": "b01",
    "title": "نقطة التحول - عنايتك بالقرآن بداية حياة جديدة",
    "file": "books/book-01.pdf",
@@ -93,6 +103,36 @@
    "pages": 61,
    "date": "2026-11-26",
    "added": "2026-11-26",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b03",
+   "title": "ستون فائدة في الاستغفار",
+   "file": "books/book-03.pdf",
+   "cover": "covers/book-03.jpg",
+   "pages": 41,
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b04",
+   "title": "كيف يرحل الهم؟",
+   "file": "books/book-04.pdf",
+   "cover": "covers/book-04.jpg",
+   "pages": 22,
+   "date": "2026-11-27",
+   "added": "2026-11-27",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b05",
+   "title": "متى يحبك الله؟",
+   "file": "books/book-05.pdf",
+   "cover": "covers/book-05.jpg",
+   "pages": 13,
+   "date": "2026-11-27",
+   "added": "2026-11-27",
    "category": "الأخلاق والتزكية"
   }
  ]
