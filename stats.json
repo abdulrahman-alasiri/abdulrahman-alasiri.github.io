@@ -1,26 +1,86 @@
 {
- "updated": "2026-11-28T13:52Z",
- "total": 22,
- "last28": 22,
+ "updated": "2026-11-28T15:05Z",
+ "total": 173,
+ "last28": 173,
  "countries": [
   {
    "code": "SA",
    "name": "Saudi Arabia",
-   "count": 13
-  },
-  {
-   "code": "FR",
-   "name": "France",
-   "count": 3
-  },
-  {
-   "code": "US",
-   "name": "United States",
-   "count": 3
+   "count": 107
   },
   {
    "code": "EG",
    "name": "Egypt",
+   "count": 17
+  },
+  {
+   "code": "US",
+   "name": "United States",
+   "count": 11
+  },
+  {
+   "code": "FR",
+   "name": "France",
+   "count": 5
+  },
+  {
+   "code": "SE",
+   "name": "Sweden",
+   "count": 5
+  },
+  {
+   "code": "TR",
+   "name": "Turkey",
+   "count": 5
+  },
+  {
+   "code": "MA",
+   "name": "Morocco",
+   "count": 3
+  },
+  {
+   "code": "SD",
+   "name": "Sudan",
+   "count": 3
+  },
+  {
+   "code": "KW",
+   "name": "Kuwait",
+   "count": 2
+  },
+  {
+   "code": "NL",
+   "name": "Netherlands",
+   "count": 2
+  },
+  {
+   "code": "QA",
+   "name": "Qatar",
+   "count": 2
+  },
+  {
+   "code": "SO",
+   "name": "Somalia",
+   "count": 2
+  },
+  {
+   "code": "UZ",
+   "name": "Uzbekistan",
+   "count": 2
+  },
+  {
+   "code": "YE",
+   "name": "Yemen",
+   "count": 2
+  },
+  {
+   "code": "DZ",
+   "name": "Algeria",
+   "count": 1
+  },
+  {
+   "code": "ET",
+   "name": "Ethiopia",
    "count": 1
   },
   {
@@ -29,8 +89,13 @@
    "count": 1
   },
   {
-   "code": "SE",
-   "name": "Sweden",
+   "code": "OM",
+   "name": "Oman",
+   "count": 1
+  },
+  {
+   "code": "SY",
+   "name": "Syria",
    "count": 1
   }
  ],
@@ -393,32 +458,116 @@
   ],
   [
    "2026-11-28",
-   22
+   173
   ]
  ],
  "pages": [
   {
    "path": "/book/b06",
-   "count": 1
-  },
-  {
-   "path": "/book/b47",
-   "count": 1
+   "count": 9
   },
   {
    "path": "/book/b29",
-   "count": 1
+   "count": 8
   },
   {
-   "path": "/book/b32",
-   "count": 1
-  },
-  {
-   "path": "/book/b53",
-   "count": 1
+   "path": "/book/b47",
+   "count": 6
   },
   {
    "path": "/book/b36",
+   "count": 6
+  },
+  {
+   "path": "/book/b38",
+   "count": 5
+  },
+  {
+   "path": "/book/b65",
+   "count": 2
+  },
+  {
+   "path": "/book/b19",
+   "count": 2
+  },
+  {
+   "path": "/book/b03",
+   "count": 2
+  },
+  {
+   "path": "/book/b21",
+   "count": 2
+  },
+  {
+   "path": "/book/b64",
+   "count": 2
+  },
+  {
+   "path": "/book/b32",
+   "count": 2
+  },
+  {
+   "path": "/book/b53",
+   "count": 2
+  },
+  {
+   "path": "/book/b66",
+   "count": 1
+  },
+  {
+   "path": "/book/b46",
+   "count": 1
+  },
+  {
+   "path": "/book/b52",
+   "count": 1
+  },
+  {
+   "path": "/book/b04",
+   "count": 1
+  },
+  {
+   "path": "/book/b49",
+   "count": 1
+  },
+  {
+   "path": "/book/b24",
+   "count": 1
+  },
+  {
+   "path": "/book/b02",
+   "count": 1
+  },
+  {
+   "path": "/book/b01",
+   "count": 1
+  },
+  {
+   "path": "/book/b20",
+   "count": 1
+  },
+  {
+   "path": "/book/b48",
+   "count": 1
+  },
+  {
+   "path": "/book/b13",
+   "count": 1
+  },
+  {
+   "path": "/book/b27",
+   "count": 1
+  },
+  {
+   "path": "/book/b09",
+   "count": 1
+  },
+  {
+   "path": "/book/b34",
+   "count": 1
+  },
+  {
+   "path": "/book/b51",
    "count": 1
   }
  ],
@@ -426,34 +575,44 @@
   {
    "id": "",
    "name": "",
-   "count": 10
+   "count": 98
   },
   {
    "id": "www.facebook.com",
    "name": "www.facebook.com",
-   "count": 5
+   "count": 7
+  },
+  {
+   "id": "Telegram Messenger",
+   "name": "Telegram Messenger",
+   "count": 6
+  },
+  {
+   "id": "bing.com",
+   "name": "bing.com",
+   "count": 1
   }
  ],
  "sizes": [
   {
    "id": "phone",
    "name": "",
-   "count": 16
+   "count": 156
   },
   {
    "id": "tablet",
    "name": "",
-   "count": 2
+   "count": 6
   },
   {
    "id": "desktop",
    "name": "",
-   "count": 3
+   "count": 6
   },
   {
    "id": "desktophd",
    "name": "",
-   "count": 1
+   "count": 5
   }
  ]
 }
