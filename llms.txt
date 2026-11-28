@@ -1,6 +1,6 @@
 # مؤلفات عبدالرحمن محمد عسيري — عبدالرحمن محمد عسيري
 
-> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٤٨ كتاباً باللغة العربية.
+> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٦٧ كتاباً باللغة العربية.
 > تُقرأ الكتب مجاناً على الموقع بتقليب الصفحات؛ ولكل كتاب صفحة فيها بياناته ورابط قراءته.
 
 - الموقع: https://abdulrahman-alasiri.github.io/
@@ -12,17 +12,25 @@
 - [أربعون خطأً شائعاً في الصلاة](https://abdulrahman-alasiri.github.io/kitab/b27.html): المؤلفات العلمية، ٣٣ صفحة
 - [فادعوه بها - وقفات يسيرة مع أسماء الله الحسنى](https://abdulrahman-alasiri.github.io/kitab/b29.html): المؤلفات العلمية، ٢٠٠ صفحة
 - [الجواب في القرآن](https://abdulrahman-alasiri.github.io/kitab/b32.html): المؤلفات العلمية، ٥٧ صفحة
+- [خمسون مسألة معاصرة](https://abdulrahman-alasiri.github.io/kitab/b51.html): المؤلفات العلمية، ١٩ صفحة
+- [خمسون مسألة لجماعة المسجد](https://abdulrahman-alasiri.github.io/kitab/b50.html): المؤلفات العلمية، ٢٠ صفحة
+- [مئة فتوى في العبادات](https://abdulrahman-alasiri.github.io/kitab/b52.html): المؤلفات العلمية، ٣٣ صفحة
 - [مختصر رسالة الحجاب للشيخ ابن عثيمين](https://abdulrahman-alasiri.github.io/kitab/b30.html): الشيخ محمد بن صالح العثيمين، المؤلفات العلمية، ٩ صفحات
 - [مهوى أفئدة طيبة](https://abdulrahman-alasiri.github.io/kitab/b44.html): المؤلفات العلمية، ٥٩ صفحة
 - [قالوا عن المدينة](https://abdulrahman-alasiri.github.io/kitab/b45.html): المؤلفات العلمية، ٢٩ صفحة
 - [فضائل الأعمال بأدلتها](https://abdulrahman-alasiri.github.io/kitab/b43.html): المؤلفات العلمية، ٨١ صفحة
+- [مختصر فضائل الأعمال](https://abdulrahman-alasiri.github.io/kitab/b60.html): المؤلفات العلمية، ٢٥ صفحة
 
 ## السيرة النبوية
 
 - [هكذا كان ﷺ يجبر الخواطر](https://abdulrahman-alasiri.github.io/kitab/b19.html): السيرة النبوية، ٦٧ صفحة
 - [حين ودّع الحبيب ﷺ](https://abdulrahman-alasiri.github.io/kitab/b46.html): السيرة النبوية، ٧٢ صفحة
 - [فن التعامل النبوي](https://abdulrahman-alasiri.github.io/kitab/b47.html): السيرة النبوية، ٦٦ صفحة
+- [قصة الإسراء والمعراج](https://abdulrahman-alasiri.github.io/kitab/b53.html): السيرة النبوية، ٤٥ صفحة
+- [مواقف النبي ﷺ مع عائشة](https://abdulrahman-alasiri.github.io/kitab/b59.html): السيرة النبوية، ٢٥ صفحة
+- [مواقف نبوية ولفتات تربوية](https://abdulrahman-alasiri.github.io/kitab/b55.html): السيرة النبوية، ٣٦ صفحة
 - [ثاني اثنين - رحلة النبي ﷺ مع الصديق](https://abdulrahman-alasiri.github.io/kitab/b48.html): السيرة النبوية، ٢٧ صفحة
+- [يوم الفرقان - غزوة بدر الكبرى](https://abdulrahman-alasiri.github.io/kitab/b54.html): السيرة النبوية، ٣٨ صفحة
 
 ## الأخلاق والتزكية
 
@@ -47,6 +55,7 @@
 - [أعمال تغفر بها الذنوب](https://abdulrahman-alasiri.github.io/kitab/b24.html): الأخلاق والتزكية، ٢٠ صفحة
 - [كيف تتلذذ بصلاتك؟](https://abdulrahman-alasiri.github.io/kitab/b25.html): الأخلاق والتزكية، ٨٣ صفحة
 - [إلى المأسور في سجن الهوى](https://abdulrahman-alasiri.github.io/kitab/b33.html): الأخلاق والتزكية، ٣٦ صفحة
+- [قصص تحيي القلوب - مئة قصة مؤثرة](https://abdulrahman-alasiri.github.io/kitab/b49.html): الأخلاق والتزكية، ١١٦ صفحة
 - [كيف تشكل وعيك من خلال القرآن؟](https://abdulrahman-alasiri.github.io/kitab/b39.html): الأخلاق والتزكية، ١٥ صفحة
 - [أثر القرآن في حياة الإنسان](https://abdulrahman-alasiri.github.io/kitab/b40.html): الأخلاق والتزكية، ٢٣ صفحة
 - [أرحنا بها](https://abdulrahman-alasiri.github.io/kitab/b42.html): الأخلاق والتزكية، ١٥ صفحة
@@ -54,6 +63,8 @@
 - [مختصر الأنس بالله](https://abdulrahman-alasiri.github.io/kitab/b35.html): الشيخ أحمد بن ناصر الطيار، الأخلاق والتزكية، ٦١ صفحة
 - [مختصر عبارات أثرت عليّ وغيرت في حياتي](https://abdulrahman-alasiri.github.io/kitab/b37.html): الشيخ أحمد بن ناصر الطيار، الأخلاق والتزكية، ٦٨ صفحة
 - [الباقيات الصالحات](https://abdulrahman-alasiri.github.io/kitab/b34.html): الأخلاق والتزكية، ٩ صفحات
+- [الأعمال التي تُثقل الميزان](https://abdulrahman-alasiri.github.io/kitab/b61.html): الأخلاق والتزكية، ٥ صفحات
+- [كيف تتلذذ بالعبادة؟](https://abdulrahman-alasiri.github.io/kitab/b56.html): الأخلاق والتزكية، ٣١ صفحة
 - [مرآة الحديث](https://abdulrahman-alasiri.github.io/kitab/b31.html): الأخلاق والتزكية، ٨١ صفحة
 
 ## المؤلفات الأسرية
@@ -63,7 +74,15 @@
 
 ## المقالات والخواطر
 
+- [داء الغفلة](https://abdulrahman-alasiri.github.io/kitab/b64.html): المقالات والخواطر، ١١ صفحة
+- [ريح القميص - حين يكون الفرح دواءً](https://abdulrahman-alasiri.github.io/kitab/b67.html): المقالات والخواطر، ١١ صفحة
+- [نعمة لا تُشترى](https://abdulrahman-alasiri.github.io/kitab/b65.html): المقالات والخواطر، ١٤ صفحة
+- [صناعة المستحيل](https://abdulrahman-alasiri.github.io/kitab/b62.html): المقالات والخواطر، ٨ صفحات
+- [عابرون وساكنون](https://abdulrahman-alasiri.github.io/kitab/b63.html): المقالات والخواطر، ١١ صفحة
+- [ما بقي في القلب - مواقف لا أنساها](https://abdulrahman-alasiri.github.io/kitab/b66.html): المقالات والخواطر، ٣٧ صفحة
 - [بوح الخاطر - الجزء الأول](https://abdulrahman-alasiri.github.io/kitab/b28.html): المقالات والخواطر، ٥٦ صفحة
 - [بوح الخاطر - الجزء الثاني](https://abdulrahman-alasiri.github.io/kitab/b21.html): المقالات والخواطر، ٧٠ صفحة
 - [بوح الخاطر - الجزء الثالث](https://abdulrahman-alasiri.github.io/kitab/b22.html): المقالات والخواطر، ٦٥ صفحة
 - [بوح الخاطر - الجزء الرابع](https://abdulrahman-alasiri.github.io/kitab/b23.html): المقالات والخواطر، ٥٨ صفحة
+- [رسالة إلى حامل القرآن](https://abdulrahman-alasiri.github.io/kitab/b57.html): المقالات والخواطر، ١٢ صفحة
+- [رسالة إلى من أرهقته الذنوب](https://abdulrahman-alasiri.github.io/kitab/b58.html): المقالات والخواطر، ١٢ صفحة

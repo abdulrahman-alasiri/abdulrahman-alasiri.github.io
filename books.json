@@ -126,6 +126,36 @@
    "category": "المؤلفات العلمية"
   },
   {
+   "id": "b51",
+   "title": "خمسون مسألة معاصرة",
+   "file": "books/book-51.pdf",
+   "cover": "covers/book-51.jpg",
+   "pages": 19,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b50",
+   "title": "خمسون مسألة لجماعة المسجد",
+   "file": "books/book-50.pdf",
+   "cover": "covers/book-50.jpg",
+   "pages": 20,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b52",
+   "title": "مئة فتوى في العبادات",
+   "file": "books/book-52.pdf",
+   "cover": "covers/book-52.jpg",
+   "pages": 33,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
    "id": "b30",
    "title": "مختصر رسالة الحجاب للشيخ ابن عثيمين",
    "file": "books/book-30.pdf",
@@ -167,6 +197,16 @@
    "category": "المؤلفات العلمية"
   },
   {
+   "id": "b60",
+   "title": "مختصر فضائل الأعمال",
+   "file": "books/book-60.pdf",
+   "cover": "covers/book-60.jpg",
+   "pages": 25,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
    "id": "b19",
    "title": "هكذا كان ﷺ يجبر الخواطر",
    "file": "books/book-19.pdf",
@@ -197,11 +237,51 @@
    "category": "السيرة النبوية"
   },
   {
+   "id": "b53",
+   "title": "قصة الإسراء والمعراج",
+   "file": "books/book-53.pdf",
+   "cover": "covers/book-53.jpg",
+   "pages": 45,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b59",
+   "title": "مواقف النبي ﷺ مع عائشة",
+   "file": "books/book-59.pdf",
+   "cover": "covers/book-59.jpg",
+   "pages": 25,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b55",
+   "title": "مواقف نبوية ولفتات تربوية",
+   "file": "books/book-55.pdf",
+   "cover": "covers/book-55.jpg",
+   "pages": 36,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
    "id": "b48",
    "title": "ثاني اثنين - رحلة النبي ﷺ مع الصديق",
    "file": "books/book-48.pdf",
    "cover": "covers/book-48.jpg",
    "pages": 27,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b54",
+   "title": "يوم الفرقان - غزوة بدر الكبرى",
+   "file": "books/book-54.pdf",
+   "cover": "covers/book-54.jpg",
+   "pages": 38,
    "date": "2026-11-28",
    "added": "2026-11-28",
    "category": "السيرة النبوية"
@@ -417,6 +497,16 @@
    "category": "الأخلاق والتزكية"
   },
   {
+   "id": "b49",
+   "title": "قصص تحيي القلوب - مئة قصة مؤثرة",
+   "file": "books/book-49.pdf",
+   "cover": "covers/book-49.jpg",
+   "pages": 116,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
    "id": "b39",
    "title": "كيف تشكل وعيك من خلال القرآن؟",
    "file": "books/book-39.pdf",
@@ -489,6 +579,26 @@
    "category": "الأخلاق والتزكية"
   },
   {
+   "id": "b61",
+   "title": "الأعمال التي تُثقل الميزان",
+   "file": "books/book-61.pdf",
+   "cover": "covers/book-61.jpg",
+   "pages": 5,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b56",
+   "title": "كيف تتلذذ بالعبادة؟",
+   "file": "books/book-56.pdf",
+   "cover": "covers/book-56.jpg",
+   "pages": 31,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
    "id": "b31",
    "title": "مرآة الحديث",
    "file": "books/book-31.pdf",
@@ -519,6 +629,66 @@
    "added": "2026-11-28",
    "category": "المؤلفات الأسرية",
    "author": "الشيخ أحمد بن ناصر الطيار"
+  },
+  {
+   "id": "b64",
+   "title": "داء الغفلة",
+   "file": "books/book-64.pdf",
+   "cover": "covers/book-64.jpg",
+   "pages": 11,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b67",
+   "title": "ريح القميص - حين يكون الفرح دواءً",
+   "file": "books/book-67.pdf",
+   "cover": "covers/book-67.jpg",
+   "pages": 11,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b65",
+   "title": "نعمة لا تُشترى",
+   "file": "books/book-65.pdf",
+   "cover": "covers/book-65.jpg",
+   "pages": 14,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b62",
+   "title": "صناعة المستحيل",
+   "file": "books/book-62.pdf",
+   "cover": "covers/book-62.jpg",
+   "pages": 8,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b63",
+   "title": "عابرون وساكنون",
+   "file": "books/book-63.pdf",
+   "cover": "covers/book-63.jpg",
+   "pages": 11,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b66",
+   "title": "ما بقي في القلب - مواقف لا أنساها",
+   "file": "books/book-66.pdf",
+   "cover": "covers/book-66.jpg",
+   "pages": 37,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
   },
   {
    "id": "b28",
@@ -556,6 +726,26 @@
    "file": "books/book-23.pdf",
    "cover": "covers/book-23.jpg",
    "pages": 58,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b57",
+   "title": "رسالة إلى حامل القرآن",
+   "file": "books/book-57.pdf",
+   "cover": "covers/book-57.jpg",
+   "pages": 12,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b58",
+   "title": "رسالة إلى من أرهقته الذنوب",
+   "file": "books/book-58.pdf",
+   "cover": "covers/book-58.jpg",
+   "pages": 12,
    "date": "2026-11-28",
    "added": "2026-11-28",
    "category": "المقالات والخواطر"
