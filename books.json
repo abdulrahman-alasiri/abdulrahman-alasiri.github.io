@@ -106,11 +106,102 @@
    "category": "المؤلفات العلمية"
   },
   {
+   "id": "b29",
+   "title": "فادعوه بها - وقفات يسيرة مع أسماء الله الحسنى",
+   "file": "books/book-29.pdf",
+   "cover": "covers/book-29.jpg",
+   "pages": 200,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b32",
+   "title": "الجواب في القرآن",
+   "file": "books/book-32.pdf",
+   "cover": "covers/book-32.jpg",
+   "pages": 57,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b30",
+   "title": "مختصر رسالة الحجاب للشيخ ابن عثيمين",
+   "file": "books/book-30.pdf",
+   "cover": "covers/book-30.jpg",
+   "pages": 9,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية",
+   "author": "الشيخ محمد بن صالح العثيمين"
+  },
+  {
+   "id": "b44",
+   "title": "مهوى أفئدة طيبة",
+   "file": "books/book-44.pdf",
+   "cover": "covers/book-44.jpg",
+   "pages": 59,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b45",
+   "title": "قالوا عن المدينة",
+   "file": "books/book-45.pdf",
+   "cover": "covers/book-45.jpg",
+   "pages": 29,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b43",
+   "title": "فضائل الأعمال بأدلتها",
+   "file": "books/book-43.pdf",
+   "cover": "covers/book-43.jpg",
+   "pages": 81,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
    "id": "b19",
    "title": "هكذا كان ﷺ يجبر الخواطر",
    "file": "books/book-19.pdf",
    "cover": "covers/book-19.jpg",
    "pages": 67,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b46",
+   "title": "حين ودّع الحبيب ﷺ",
+   "file": "books/book-46.pdf",
+   "cover": "covers/book-46.jpg",
+   "pages": 72,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b47",
+   "title": "فن التعامل النبوي",
+   "file": "books/book-47.pdf",
+   "cover": "covers/book-47.jpg",
+   "pages": 66,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
+   "id": "b48",
+   "title": "ثاني اثنين - رحلة النبي ﷺ مع الصديق",
+   "file": "books/book-48.pdf",
+   "cover": "covers/book-48.jpg",
+   "pages": 27,
    "date": "2026-11-28",
    "added": "2026-11-28",
    "category": "السيرة النبوية"
@@ -314,6 +405,120 @@
    "date": "2026-11-28",
    "added": "2026-11-28",
    "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b33",
+   "title": "إلى المأسور في سجن الهوى",
+   "file": "books/book-33.pdf",
+   "cover": "covers/book-33.jpg",
+   "pages": 36,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b39",
+   "title": "كيف تشكل وعيك من خلال القرآن؟",
+   "file": "books/book-39.pdf",
+   "cover": "covers/book-39.jpg",
+   "pages": 15,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b40",
+   "title": "أثر القرآن في حياة الإنسان",
+   "file": "books/book-40.pdf",
+   "cover": "covers/book-40.jpg",
+   "pages": 23,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b42",
+   "title": "أرحنا بها",
+   "file": "books/book-42.pdf",
+   "cover": "covers/book-42.jpg",
+   "pages": 15,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b41",
+   "title": "مركزية الصلاة في حياة طالب العلم",
+   "file": "books/book-41.pdf",
+   "cover": "covers/book-41.jpg",
+   "pages": 47,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b35",
+   "title": "مختصر الأنس بالله",
+   "file": "books/book-35.pdf",
+   "cover": "covers/book-35.jpg",
+   "pages": 61,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية",
+   "author": "الشيخ أحمد بن ناصر الطيار"
+  },
+  {
+   "id": "b37",
+   "title": "مختصر عبارات أثرت عليّ وغيرت في حياتي",
+   "file": "books/book-37.pdf",
+   "cover": "covers/book-37.jpg",
+   "pages": 68,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية",
+   "author": "الشيخ أحمد بن ناصر الطيار"
+  },
+  {
+   "id": "b34",
+   "title": "الباقيات الصالحات",
+   "file": "books/book-34.pdf",
+   "cover": "covers/book-34.jpg",
+   "pages": 9,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b31",
+   "title": "مرآة الحديث",
+   "file": "books/book-31.pdf",
+   "cover": "covers/book-31.jpg",
+   "pages": 81,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b38",
+   "title": "مختصر الحياة الزوجية السعيدة",
+   "file": "books/book-38.pdf",
+   "cover": "covers/book-38.jpg",
+   "pages": 32,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات الأسرية",
+   "author": "الشيخ أحمد بن ناصر الطيار"
+  },
+  {
+   "id": "b36",
+   "title": "مختصر كيف تربي أولادك",
+   "file": "books/book-36.pdf",
+   "cover": "covers/book-36.jpg",
+   "pages": 33,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات الأسرية",
+   "author": "الشيخ أحمد بن ناصر الطيار"
   },
   {
    "id": "b28",
