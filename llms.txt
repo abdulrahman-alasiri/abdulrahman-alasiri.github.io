@@ -1,6 +1,6 @@
 # مؤلفات عبدالرحمن محمد عسيري — عبدالرحمن محمد عسيري
 
-> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٢٥ كتاباً باللغة العربية.
+> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٢٨ كتاباً باللغة العربية.
 > تُقرأ الكتب مجاناً على الموقع بتقليب الصفحات؛ ولكل كتاب صفحة فيها بياناته ورابط قراءته.
 
 - الموقع: https://abdulrahman-alasiri.github.io/
@@ -9,6 +9,7 @@
 
 - [خمسة وثمانون فائدة في ضبط متشابه القرآن](https://abdulrahman-alasiri.github.io/kitab/b06.html): المؤلفات العلمية، ٤٤ صفحة
 - [أنوار شرعية](https://abdulrahman-alasiri.github.io/kitab/b09.html): المؤلفات العلمية، ٣٠ صفحة
+- [أربعون خطأً شائعاً في الصلاة](https://abdulrahman-alasiri.github.io/kitab/b27.html): المؤلفات العلمية، ٣٣ صفحة
 
 ## السيرة النبوية
 
@@ -30,6 +31,7 @@
 - [عشرون مفتاحاً للرزق](https://abdulrahman-alasiri.github.io/kitab/b14.html): الأخلاق والتزكية، ٣٢ صفحة
 - [أول مرة أسمع الأذان وكان للأذان طعم آخر](https://abdulrahman-alasiri.github.io/kitab/b15.html): الأخلاق والتزكية، ٣٨ صفحة
 - [لماذا لا أكون أنا؟](https://abdulrahman-alasiri.github.io/kitab/b16.html): الأخلاق والتزكية، ٥٣ صفحة
+- [وقفات رمضانية](https://abdulrahman-alasiri.github.io/kitab/b26.html): الأخلاق والتزكية، ٦١ صفحة
 - [الوصايا العشر في أيام العشر](https://abdulrahman-alasiri.github.io/kitab/b17.html): الأخلاق والتزكية، ٢٤ صفحة
 - [كيف تعيش مطمئناً؟](https://abdulrahman-alasiri.github.io/kitab/b18.html): الأخلاق والتزكية، ٣٨ صفحة
 - [أربعون سبباً لدخول الجنة](https://abdulrahman-alasiri.github.io/kitab/b20.html): الأخلاق والتزكية، ٣٠ صفحة
@@ -38,6 +40,7 @@
 
 ## المقالات والخواطر
 
+- [بوح الخاطر - الجزء الأول](https://abdulrahman-alasiri.github.io/kitab/b28.html): المقالات والخواطر، ٥٦ صفحة
 - [بوح الخاطر - الجزء الثاني](https://abdulrahman-alasiri.github.io/kitab/b21.html): المقالات والخواطر، ٧٠ صفحة
 - [بوح الخاطر - الجزء الثالث](https://abdulrahman-alasiri.github.io/kitab/b22.html): المقالات والخواطر، ٦٥ صفحة
 - [بوح الخاطر - الجزء الرابع](https://abdulrahman-alasiri.github.io/kitab/b23.html): المقالات والخواطر، ٥٨ صفحة

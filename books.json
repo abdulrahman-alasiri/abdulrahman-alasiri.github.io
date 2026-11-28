@@ -96,6 +96,16 @@
    "category": "المؤلفات العلمية"
   },
   {
+   "id": "b27",
+   "title": "أربعون خطأً شائعاً في الصلاة",
+   "file": "books/book-27.pdf",
+   "cover": "covers/book-27.jpg",
+   "pages": 33,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
    "id": "b19",
    "title": "هكذا كان ﷺ يجبر الخواطر",
    "file": "books/book-19.pdf",
@@ -246,6 +256,16 @@
    "category": "الأخلاق والتزكية"
   },
   {
+   "id": "b26",
+   "title": "وقفات رمضانية",
+   "file": "books/book-26.pdf",
+   "cover": "covers/book-26.jpg",
+   "pages": 61,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
    "id": "b17",
    "title": "الوصايا العشر في أيام العشر",
    "file": "books/book-17.pdf",
@@ -294,6 +314,16 @@
    "date": "2026-11-28",
    "added": "2026-11-28",
    "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b28",
+   "title": "بوح الخاطر - الجزء الأول",
+   "file": "books/book-28.pdf",
+   "cover": "covers/book-28.jpg",
+   "pages": 56,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
   },
   {
    "id": "b21",
