@@ -11,7 +11,7 @@
   "allowPageShare": true,
   "counter": "",
   "whatsapp": "966532501235",
-  "preparedDate": "2026-11-27",
+  "preparedDate": "2026-11-28",
   "newDays": 45,
   "theme": {
    "primary": "#17365D",
@@ -86,6 +86,26 @@
    "category": "المؤلفات العلمية"
   },
   {
+   "id": "b09",
+   "title": "أنوار شرعية",
+   "file": "books/book-09.pdf",
+   "cover": "covers/book-09.jpg",
+   "pages": 30,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المؤلفات العلمية"
+  },
+  {
+   "id": "b19",
+   "title": "هكذا كان ﷺ يجبر الخواطر",
+   "file": "books/book-19.pdf",
+   "cover": "covers/book-19.jpg",
+   "pages": 67,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "السيرة النبوية"
+  },
+  {
    "id": "b01",
    "title": "نقطة التحول - عنايتك بالقرآن بداية حياة جديدة",
    "file": "books/book-01.pdf",
@@ -134,6 +154,176 @@
    "date": "2026-11-27",
    "added": "2026-11-27",
    "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b07",
+   "title": "المشاهد العشرة للصبر على الأذى ودفع السيئة بالحسنة",
+   "file": "books/book-07.pdf",
+   "cover": "covers/book-07.jpg",
+   "pages": 13,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b08",
+   "title": "المفتاح السحري للقلوب",
+   "file": "books/book-08.pdf",
+   "cover": "covers/book-08.jpg",
+   "pages": 43,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b10",
+   "title": "فضائل السلام وآدابه",
+   "file": "books/book-10.pdf",
+   "cover": "covers/book-10.jpg",
+   "pages": 10,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b11",
+   "title": "خمسون فائدة من كتاب الأنس بالله",
+   "file": "books/book-11.pdf",
+   "cover": "covers/book-11.jpg",
+   "pages": 36,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b12",
+   "title": "كيف تنال البركة؟",
+   "file": "books/book-12.pdf",
+   "cover": "covers/book-12.jpg",
+   "pages": 24,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b13",
+   "title": "الجوائز الأربعة",
+   "file": "books/book-13.pdf",
+   "cover": "covers/book-13.jpg",
+   "pages": 12,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b14",
+   "title": "عشرون مفتاحاً للرزق",
+   "file": "books/book-14.pdf",
+   "cover": "covers/book-14.jpg",
+   "pages": 32,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b15",
+   "title": "أول مرة أسمع الأذان وكان للأذان طعم آخر",
+   "file": "books/book-15.pdf",
+   "cover": "covers/book-15.jpg",
+   "pages": 38,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b16",
+   "title": "لماذا لا أكون أنا؟",
+   "file": "books/book-16.pdf",
+   "cover": "covers/book-16.jpg",
+   "pages": 53,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b17",
+   "title": "الوصايا العشر في أيام العشر",
+   "file": "books/book-17.pdf",
+   "cover": "covers/book-17.jpg",
+   "pages": 24,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b18",
+   "title": "كيف تعيش مطمئناً؟",
+   "file": "books/book-18.pdf",
+   "cover": "covers/book-18.jpg",
+   "pages": 38,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b20",
+   "title": "أربعون سبباً لدخول الجنة",
+   "file": "books/book-20.pdf",
+   "cover": "covers/book-20.jpg",
+   "pages": 30,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b24",
+   "title": "أعمال تغفر بها الذنوب",
+   "file": "books/book-24.pdf",
+   "cover": "covers/book-24.jpg",
+   "pages": 20,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b25",
+   "title": "كيف تتلذذ بصلاتك؟",
+   "file": "books/book-25.pdf",
+   "cover": "covers/book-25.jpg",
+   "pages": 83,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "الأخلاق والتزكية"
+  },
+  {
+   "id": "b21",
+   "title": "بوح الخاطر - الجزء الثاني",
+   "file": "books/book-21.pdf",
+   "cover": "covers/book-21.jpg",
+   "pages": 70,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b22",
+   "title": "بوح الخاطر - الجزء الثالث",
+   "file": "books/book-22.pdf",
+   "cover": "covers/book-22.jpg",
+   "pages": 65,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
+  },
+  {
+   "id": "b23",
+   "title": "بوح الخاطر - الجزء الرابع",
+   "file": "books/book-23.pdf",
+   "cover": "covers/book-23.jpg",
+   "pages": 58,
+   "date": "2026-11-28",
+   "added": "2026-11-28",
+   "category": "المقالات والخواطر"
   }
  ]
 }

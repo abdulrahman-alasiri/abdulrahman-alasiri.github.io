@@ -1,6 +1,6 @@
 # مؤلفات عبدالرحمن محمد عسيري — عبدالرحمن محمد عسيري
 
-> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٦ كتب باللغة العربية.
+> مؤلفاته ومقالاته في العلم والسيرة النبوية والأخلاق والتزكية والأسرة، تقرؤها كما طُبعت ومن أي جهاز — عبدالرحمن محمد عسيري، فيها ٢٥ كتاباً باللغة العربية.
 > تُقرأ الكتب مجاناً على الموقع بتقليب الصفحات؛ ولكل كتاب صفحة فيها بياناته ورابط قراءته.
 
 - الموقع: https://abdulrahman-alasiri.github.io/
@@ -8,6 +8,11 @@
 ## المؤلفات العلمية
 
 - [خمسة وثمانون فائدة في ضبط متشابه القرآن](https://abdulrahman-alasiri.github.io/kitab/b06.html): المؤلفات العلمية، ٤٤ صفحة
+- [أنوار شرعية](https://abdulrahman-alasiri.github.io/kitab/b09.html): المؤلفات العلمية، ٣٠ صفحة
+
+## السيرة النبوية
+
+- [هكذا كان ﷺ يجبر الخواطر](https://abdulrahman-alasiri.github.io/kitab/b19.html): السيرة النبوية، ٦٧ صفحة
 
 ## الأخلاق والتزكية
 
@@ -16,3 +21,23 @@
 - [ستون فائدة في الاستغفار](https://abdulrahman-alasiri.github.io/kitab/b03.html): الأخلاق والتزكية، ٤١ صفحة
 - [كيف يرحل الهم؟](https://abdulrahman-alasiri.github.io/kitab/b04.html): الأخلاق والتزكية، ٢٢ صفحة
 - [متى يحبك الله؟](https://abdulrahman-alasiri.github.io/kitab/b05.html): الأخلاق والتزكية، ١٣ صفحة
+- [المشاهد العشرة للصبر على الأذى ودفع السيئة بالحسنة](https://abdulrahman-alasiri.github.io/kitab/b07.html): الأخلاق والتزكية، ١٣ صفحة
+- [المفتاح السحري للقلوب](https://abdulrahman-alasiri.github.io/kitab/b08.html): الأخلاق والتزكية، ٤٣ صفحة
+- [فضائل السلام وآدابه](https://abdulrahman-alasiri.github.io/kitab/b10.html): الأخلاق والتزكية، ١٠ صفحات
+- [خمسون فائدة من كتاب الأنس بالله](https://abdulrahman-alasiri.github.io/kitab/b11.html): الأخلاق والتزكية، ٣٦ صفحة
+- [كيف تنال البركة؟](https://abdulrahman-alasiri.github.io/kitab/b12.html): الأخلاق والتزكية، ٢٤ صفحة
+- [الجوائز الأربعة](https://abdulrahman-alasiri.github.io/kitab/b13.html): الأخلاق والتزكية، ١٢ صفحة
+- [عشرون مفتاحاً للرزق](https://abdulrahman-alasiri.github.io/kitab/b14.html): الأخلاق والتزكية، ٣٢ صفحة
+- [أول مرة أسمع الأذان وكان للأذان طعم آخر](https://abdulrahman-alasiri.github.io/kitab/b15.html): الأخلاق والتزكية، ٣٨ صفحة
+- [لماذا لا أكون أنا؟](https://abdulrahman-alasiri.github.io/kitab/b16.html): الأخلاق والتزكية، ٥٣ صفحة
+- [الوصايا العشر في أيام العشر](https://abdulrahman-alasiri.github.io/kitab/b17.html): الأخلاق والتزكية، ٢٤ صفحة
+- [كيف تعيش مطمئناً؟](https://abdulrahman-alasiri.github.io/kitab/b18.html): الأخلاق والتزكية، ٣٨ صفحة
+- [أربعون سبباً لدخول الجنة](https://abdulrahman-alasiri.github.io/kitab/b20.html): الأخلاق والتزكية، ٣٠ صفحة
+- [أعمال تغفر بها الذنوب](https://abdulrahman-alasiri.github.io/kitab/b24.html): الأخلاق والتزكية، ٢٠ صفحة
+- [كيف تتلذذ بصلاتك؟](https://abdulrahman-alasiri.github.io/kitab/b25.html): الأخلاق والتزكية، ٨٣ صفحة
+
+## المقالات والخواطر
+
+- [بوح الخاطر - الجزء الثاني](https://abdulrahman-alasiri.github.io/kitab/b21.html): المقالات والخواطر، ٧٠ صفحة
+- [بوح الخاطر - الجزء الثالث](https://abdulrahman-alasiri.github.io/kitab/b22.html): المقالات والخواطر، ٦٥ صفحة
+- [بوح الخاطر - الجزء الرابع](https://abdulrahman-alasiri.github.io/kitab/b23.html): المقالات والخواطر، ٥٨ صفحة
