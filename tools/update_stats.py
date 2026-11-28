@@ -33,7 +33,7 @@ except Exception as e:
 
 last28 = 0
 try:
-    s28 = (datetime.date.today() - datetime.timedelta(days=27)).isoformat()
+    s28 = (datetime.date.today() - datetime.timedelta(days=29)).isoformat()  # آخر شهر (30 يوماً)
     t = get(f"stats/total?start={s28}&end={end}")
     last28 = int(t.get("total_unique") or t.get("total") or 0)
 except Exception as e:

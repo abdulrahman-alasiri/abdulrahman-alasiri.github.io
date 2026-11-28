@@ -113,8 +113,8 @@
     const kpi = (ic, lbl, n, word, cls) => '<div class="sx-kpi ' + (cls || "") + '"><span class="sx-ki">' + ic + '</span><span class="sx-kl">' + lbl + '</span><b dir="ltr" data-n="' + n + '">0</b><small>' + word + "</small></div>";
 
     let h = '<div class="sx-kpis">' +
-      kpi(ICON.users, "منذ إطلاق الموقع", total, plural(total, "visitor"), "k1") +
-      (last28 ? kpi(ICON.cal, "آخر 28 يوماً", last28, plural(last28, "visitor")) : "") +
+      kpi(ICON.users, "منذ إطلاق المكتبة", total, plural(total, "visitor"), "k1") +
+      (last28 ? kpi(ICON.cal, "آخر شهر", last28, plural(last28, "visitor")) : "") +
       (today != null ? kpi(ICON.sun, "اليوم", today, plural(today, "visitor"), "live") : "") +
       (ctry.length ? kpi(ICON.globe, "دول الزوار", ctry.length, plural(ctry.length, "country")) : "") +
       "</div>";

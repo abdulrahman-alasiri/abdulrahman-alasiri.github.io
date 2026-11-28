@@ -90,11 +90,11 @@
       <div class="st-icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="9" cy="8" r="3.2"/><path d="M3 19.5c.8-3.2 3.2-5 6-5s5.2 1.8 6 5"/><circle cx="17" cy="9" r="2.4"/><path d="M15.6 14.6c2.6-.4 4.6 1.2 5.4 4.4"/></svg></div>
       <div class="st-vis">
         <div class="st-v">
-          <div class="st-lbl">الزوار منذ إطلاق الموقع</div>
+          <div class="st-lbl">الزوار منذ إطلاق المكتبة</div>
           <div class="st-big"><b id="stVisitors" dir="ltr">0</b><span>زائر</span></div>
         </div>
         <div class="st-v st-v2" id="st28Box" hidden>
-          <div class="st-lbl">آخر 28 يوماً</div>
+          <div class="st-lbl">آخر شهر</div>
           <div class="st-big"><b id="st28" dir="ltr">0</b><span>زائر</span></div>
         </div>
       </div>
@@ -742,13 +742,13 @@
       for (const u of urls) { try { const r = await fetch(u, { cache: "no-store" }); if (r.ok) return await r.json(); } catch (e) {} }
       return null;
     };
-    const d28 = new Date(Date.now() - 27 * 86400000).toISOString().slice(0, 10);
+    const d28 = new Date(Date.now() - 29 * 86400000) /* آخر شهر = 30 يوماً */.toISOString().slice(0, 10);
     // صفحة «الإحصاءات التفصيلية»: ملفاتها تُحمَّل عند الفتح فقط
     const SX = { books, views: null, stats: null, total: 0, last28: 0, today: null };
     let sxFiles;
     const loadSx = () => sxFiles || (sxFiles = Promise.all([
-      new Promise((ok, no) => { const l = document.createElement("link"); l.rel = "stylesheet"; l.href = "assets/stats.css?v=2"; l.onload = ok; l.onerror = no; document.head.appendChild(l); }),
-      new Promise((ok, no) => { const s = document.createElement("script"); s.src = "assets/stats.js?v=2"; s.onload = ok; s.onerror = no; document.head.appendChild(s); }),
+      new Promise((ok, no) => { const l = document.createElement("link"); l.rel = "stylesheet"; l.href = "assets/stats.css?v=3"; l.onload = ok; l.onerror = no; document.head.appendChild(l); }),
+      new Promise((ok, no) => { const s = document.createElement("script"); s.src = "assets/stats.js?v=3"; s.onload = ok; s.onerror = no; document.head.appendChild(s); }),
     ]).catch((e) => { sxFiles = null; throw e; }));
     const openSx = () => { const b = $("stMore"); b.classList.add("busy"); loadSx().then(() => window.StatsPanel.open(SX)).catch(() => {}).finally(() => b.classList.remove("busy")); };
     $("stMore").addEventListener("click", openSx);
