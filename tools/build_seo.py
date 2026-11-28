@@ -251,7 +251,7 @@ def brand_txt(site, lib, base):  # الشعار: سطران، أو اسم الم
 
 def book_page(b, site, lib, site_author, base, theme, ver, ex):
     title, author, cat = b["title"], (b.get("author") or site_author or "").strip(), (b.get("category") or "").strip()
-    url, cover = f"{base}kitab/{quote(b['id'])}.html", (base + quote(b["cover"])) if b.get("cover") else base + "assets/og.jpg"
+    url, cover = f"{base}kitab/{quote(b['id'])}.html", (base + quote(b["cover"], safe="/?=")) if b.get("cover") else base + "assets/og.jpg"
     pages = int(b.get("pages") or 0); desc_field = (b.get("description") or b.get("desc") or "").strip()
     head_title = f"{title} — {author} | {lib}" if author else f"{title} | {lib}"
     meta = f"كتاب «{title}»" + (f" — {author}" if author else "") + (f"، من تصنيف {cat}" if cat else "") + (f"، في {count(pages, 'page')}" if pages else "") + f". اقرأه مجاناً بتقليب الصفحات في {lib}."
